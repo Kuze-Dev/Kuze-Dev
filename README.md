@@ -33,9 +33,10 @@
 ### My GitHub Stats
 
 <p align="center">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Kuze-Dev&rank_icon=github&hide=stars&include_all_commits=true&all_commits=true&count_private=true&show_icons=true&theme=gotham&hide_border=true" alt="Kuze-Dev's GitHub Streak" width="52.4%" />
-    <img src="https://streak-stats.demolab.com?user=Kuze-Dev&theme=gotham&hide_border=true" alt="Kuze-Dev's GitHub Stats" width="45.6%" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Kuze-Dev&rank_icon=github&hide=stars&include_all_commits=true&count_private=true&show_icons=true&theme=gotham&hide_border=true" alt="Kuze-Dev's GitHub Stats" width="49%" />
+    <img src="https://streak-stats.demolab.com?user=Kuze-Dev&theme=gotham&hide_border=true" alt="Kuze-Dev's GitHub Streak" width="49%" />
 </p>
+
 
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuze-Dev&theme=gotham&hide_border=true&hide_title=false&area=true&custom_title=Contributions" alt="Kuze-Dev's GitHub Activity Graph" width="100%" />
