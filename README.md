@@ -39,6 +39,6 @@
 
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuze-Dev&theme=gotham&hide_border=true&hide_title=false&area=true&custom_title=Contributions" alt="Kuze-Dev's GitHub Activity Graph" width="100%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuze-Dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Kuze-Dev's Top Languages" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuze-Dev&theme=gotham&hide_border=true&hide_title=false&area=true&custom_title=Contributions&test" alt="Kuze-Dev's GitHub Activity Graph" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuze-Dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&test" alt="Kuze-Dev's Top Languages" />
 </p>
