@@ -21,7 +21,7 @@
 - **Frameworks:** Node(Express.js), PHP(Laravel)
 - **Databases:** MySQL
 - **APIs:** RESTful
-- **Authentication/Authorization:** JWT
+- **Authentication/Authorization:** JWT & Sanctum
 
 #### DevOps
 
